@@ -135,7 +135,6 @@ const james = {
 
 | Technology | Progress |
 | ---------- | -------- |
-| React      | ![50%](https://progress-bar.dev/50/?width=200) |
 | C++        | ![30%](https://progress-bar.dev/30/?width=200) |
 | C#         | ![25%](https://progress-bar.dev/25/?width=200) |
 | AWS        | ![25%](https://progress-bar.dev/25/?width=200) |
