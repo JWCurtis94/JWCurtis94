@@ -30,7 +30,8 @@ const james = {
         },
         databases: ["PostgreSQL", "SQLite", "MongoDB basics"],
         deployment: ["Heroku", "Netlify", "AWS basics"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"]
+        tools: ["Git", "GitHub", "VS Code", "Postman", "Docker"],
+        learning: ["C#", "Node.js", "Advanced React"]
     },
     currentFocus: "Securing an entry-level developer role to accelerate my growth",
     funFact: "I mentor students with learning differences, teaching them to code!"
@@ -111,6 +112,7 @@ const james = {
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
 
 ## 📊 GitHub Statistics
@@ -135,8 +137,9 @@ const james = {
 | ---------- | -------- |
 | React      | ![50%](https://progress-bar.dev/50/?width=200) |
 | C++        | ![30%](https://progress-bar.dev/30/?width=200) |
+| C#         | ![25%](https://progress-bar.dev/25/?width=200) |
 | AWS        | ![25%](https://progress-bar.dev/25/?width=200) |
-| Docker     | ![20%](https://progress-bar.dev/20/?width=200) |
+| Node.js    | ![20%](https://progress-bar.dev/20/?width=200) |
 
 </div>
 
