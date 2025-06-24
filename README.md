@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 James Curtis | Software Developer</div>
+# <div align="center">👨‍💻 James Curtis | Full-Stack Developer</div>
 
 <div align="center">
   
