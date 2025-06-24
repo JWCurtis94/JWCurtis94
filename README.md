@@ -115,20 +115,6 @@ const james = {
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true" align="center" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&custom_title=James%20Curtis's%20Contribution%20Graph&theme=react-dark&hide_border=true" align="center" />
-</div>
-
 ## 🌱 What I'm Learning Now
 
 <div align="center">
@@ -136,9 +122,9 @@ const james = {
 | Technology | Progress |
 | ---------- | -------- |
 | C++        | ![30%](https://progress-bar.dev/30/?width=200) |
-| C#         | ![25%](https://progress-bar.dev/25/?width=200) |
-| AWS        | ![25%](https://progress-bar.dev/25/?width=200) |
-| Node.js    | ![20%](https://progress-bar.dev/20/?width=200) |
+| C#         | ![45%](https://progress-bar.dev/25/?width=200) |
+| AWS        | ![65%](https://progress-bar.dev/25/?width=200) |
+| Node.js    | ![70%](https://progress-bar.dev/20/?width=200) |
 
 </div>
 
@@ -164,13 +150,3 @@ graph TD
   <a href="https://www.linkedin.com/in/your-username/">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://calendly.com/yourname/30min">
-    <img src="https://img.shields.io/badge/Schedule_Call-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Calendly"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
