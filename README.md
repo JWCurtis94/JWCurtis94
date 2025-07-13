@@ -58,24 +58,25 @@ const james = {
 Here are some of my standout projects that showcase my skills and passion for development:
 
 - **[InebriAid](https://github.com/JWCurtis94/InebriAid)**  
-  A Django-based application designed to support responsible drinking with real-time tracking and personalized insights.  
-  *Technologies*: Django, PostgreSQL, Tailwind CSS, JavaScript  
-  [View Live Demo](https://ine ventured
+  A Django-based application designed to support responsible drinking with real-time tracking and personalized insights. 
+  *Technologies*: TypeScript, TypeScript React, Javascript, Markdown, JSON
 
 - **[Somerset Shrimp Shack](https://github.com/JWCurtis94/SomersetShrimpShackDjango)**  
-  A full-stack e-commerce platform for a fictional seafood restaurant, featuring a dynamic menu and order system.  
-  *Technologies*: Django, SQLite, Bootstrap, JavaScript  
-  [View Live Demo](https://somerset-shrimp-shack.herokuapp.com)
+  Somerset Shrimp Shack
+  A full-stack e-commerce platform built for a real UK-based aquarium shrimp retailer. Features include responsive product listings, dynamic categories, a shopping cart, and secure Stripe payments.
+  *Technologies*: Python, Django, HTML, CSS, JavaScript, Bootstrap, Markdown 
+    [View Live Demo]([https://somerset-shrimp-shack.herokuapp.com](https://somersetshrimpshack.uk/))
 
 - **[CTF Education Game](https://github.com/JWCurtis94/CTF-Education-Game)**  
   An interactive web-based game to teach cybersecurity concepts through capture-the-flag challenges.  
-  *Technologies*: React, Node.js, MongoDB  
-  [View Live Demo](https://ctf-education-game.netlify.app)
+  *Technologies*: HTML, CSS, JavaScript, Markdown, JSON, YAML, Dockerfile
 
 - **[Personal Portfolio](https://github.com/JWCurtis94/personal-portfolio)**  
   My personal portfolio website, showcasing my projects and skills with a clean, modern design.  
   *Technologies*: HTML, Tailwind CSS, JavaScript  
   [View Live Demo](https://curtiscreativecode.co.uk)
+
+  **Plenty More Projects To Share Soon**
 
 ---
 
