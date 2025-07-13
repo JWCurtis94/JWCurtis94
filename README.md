@@ -59,7 +59,7 @@ graph TD
     C --> D[Freelance Developer<br>2024–Present]
     D --> E[Coding Mentor<br>2024–Present]
     E --> F[Actively Seeking<br>Full-Time Dev Role]
-    style F fill:#00b8d9,color:#fff,stroke:#333,stroke-width:2px
+
 🤝 Let's Connect
 I'm open to entry-level and junior roles, freelance opportunities, or collaborating on meaningful projects. If you’re building something that makes people’s lives better — I want in.
 
