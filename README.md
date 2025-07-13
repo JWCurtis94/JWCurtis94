@@ -80,6 +80,12 @@ Here are some of my standout projects that showcase my skills and passion for de
 
 ---
 
+### 📦 A Note on My Contributions
+
+While I actively develop projects daily, many of my repositories and experiments are stored locally or kept private — especially client work, prototypes, and early-stage concepts. This means my contribution graph may not fully reflect my day-to-day development activity. That said, I’m always happy to share code samples or walk through past projects in detail upon request.
+
+---
+
 ## 🎯 Current Endeavors
 
 - 🧠 Developing AI-powered mobile applications with React Native and Node.js
