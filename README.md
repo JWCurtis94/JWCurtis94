@@ -1,8 +1,8 @@
-# <div align="center">👨‍💻 James Curtis | Full-Stack Developer</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B8D9&center=true&vCenter=true&width=435&lines=Python+%26+Django+Specialist;Full-Stack+Developer;Problem+Solver;Creative+Technologist)](https://git.io/typing-svg)
+
+# 👨‍💻 James Curtis — Full-Stack Developer  
+🎯 Django | React | AI Apps | Creative Technologist  
+📍 Bristol, UK | 🌐 [curtiscreativecode.co.uk](https://curtiscreativecode.co.uk)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamescurtis94)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JWCurtis94)
@@ -13,53 +13,61 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-Hi, I’m **James Curtis** — a passionate full-stack developer from Somerset, UK, focused on building functional, user-centric digital experiences.
+I’m **James Curtis**, a full-stack software developer passionate about building intelligent, user-focused web and mobile apps.
 
-I transitioned from estate agency and telecommunications into software development after completing Code Institute’s bootcamp, and I’ve since specialized in crafting back-end APIs and clean, responsive UIs using Django and modern web stacks.
+After transitioning from real estate and telecom engineering, I retrained through Code Institute’s bootcamp and now specialize in **Python/Django**, **React**, and building **AI-enhanced tools**. I currently freelance under my brand [Curtis Creative Code](https://curtiscreativecode.co.uk) and am now **seeking a full-time developer role** where I can grow within a collaborative team.
 
-I bring a *curious mind, creative thinking, and a mentor’s heart* — helping others learn to code while I continually push my own boundaries.
+---
+
+## 🧠 What I Bring
+
+✅ Strong backend with Django & DRF  
+✅ Responsive UI with Tailwind, Bootstrap & React  
+✅ Real-world freelance & production experience  
+✅ Mentorship & communication skills  
+✅ Constant learner & system tinkerer  
+
+---
+
+## 🛠 Tech Stack
 
 ```js
-const james = {
-  location: "Somerset, UK",
-  pronouns: "he/him",
+const stack = {
   languages: ["Python", "JavaScript", "HTML", "CSS", "SQL"],
-  stack: {
-    frontend: ["Tailwind", "Bootstrap", "React"],
-    backend: ["Django", "DRF", "Flask", "Node (learning)"],
-    databases: ["PostgreSQL", "SQLite", "MongoDB (basics)"],
-    tools: ["Git", "Docker", "Postman", "Heroku", "Netlify"],
-  },
-  learning: ["C#", "Advanced React", "AWS", "System Design"],
-  funFact: "I mentor students with learning differences in web development.",
+  frontend: ["React", "Tailwind", "Bootstrap"],
+  backend: ["Django", "DRF", "Flask", "Node (learning)"],
+  databases: ["PostgreSQL", "SQLite", "MongoDB (basic)"],
+  tools: ["Git", "Docker", "Postman", "Heroku", "Netlify", "VSCode"],
+  currentlyLearning: ["C#", "Unity", "Advanced React", "AWS"],
 };
-🛠️ Toolset & Technologies
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,tailwind,bootstrap,postgres,sqlite,docker,git,vscode" /> </div>
-🎯 What I'm Working On
-🧠 Building AI-powered mobile apps using React Native + Node
-
-🛠️ Creating performance & privacy optimization tools for Windows
-
-🧪 Learning C# and Unity to prototype a survival exploration game
-
-🌐 Growing Curtis Creative Code, my freelance & side-project brand
+🔥 Featured Projects
+Project	Description
+🎯 InebriAID	A React Native AI-powered mobile app that helps users make better decisions while intoxicated. Built with Node.js, GPT-4, and real-time reasoning.
+🦐 Somerset Shrimp Shack	A Django e-commerce platform for a UK-based aquatic pet store. Features Stripe integration, admin CMS, mobile-first design.
+🔐 CTF-Education-Game	A Capture-the-Flag game teaching cybersecurity to kids through fun puzzles, safe hacking, and ethical logic.
+🎮 GTA-style Game (WIP)	A Unity prototype of a third-person open-world game with basic missions, driving, and AI pedestrians.
 
 📈 GitHub Stats
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=JWCurtis94&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWCurtis94&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🧭 My Career Journey
+🧭 Career Journey
 mermaid
 Copy
 Edit
 graph TD
-    A[Estate Agent<br>2017–2020] --> B[Telecoms Engineer<br>Openreach<br>2022–2024]
+    A[Estate Agent<br>2017–2020] --> B[Telecom Engineer<br>Openreach<br>2022–2024]
     B --> C[Code Institute Bootcamp<br>2024]
     C --> D[Freelance Developer<br>2024–Present]
     D --> E[Coding Mentor<br>2024–Present]
-    E --> F[Open to Opportunities]
+    E --> F[Actively Seeking<br>Full-Time Dev Role]
     style F fill:#00b8d9,color:#fff,stroke:#333,stroke-width:2px
 🤝 Let's Connect
-If you're hiring, collaborating, or curious — I'm open to entry-level roles, side projects, and building meaningful software that solves real problems.
+I'm open to entry-level and junior roles, freelance opportunities, or collaborating on meaningful projects. If you’re building something that makes people’s lives better — I want in.
 
-<div align="center"> <a href="mailto:jameswcurtis94@outlook.com"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/jamescurtis94"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://curtiscreativecode.co.uk"> <img src="https://img.shields.io/badge/Visit_Portfolio-1E88E5?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/> </a> </div> ```
+📧 jameswcurtis94@outlook.com
+🌐 curtiscreativecode.co.uk
+📍 Based in Bristol, open to relocation or remote work
+
+“Build useful things. Learn by doing. Share what you know.”
