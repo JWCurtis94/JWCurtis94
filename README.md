@@ -64,8 +64,7 @@ Here are some of my standout projects that showcase my skills and passion for de
 - **[Somerset Shrimp Shack](https://github.com/JWCurtis94/SomersetShrimpShackDjango)**  
   Somerset Shrimp Shack
   A full-stack e-commerce platform built for a real UK-based aquarium shrimp retailer. Features include responsive product listings, dynamic categories, a shopping cart, and secure Stripe payments.
-  *Technologies*: Python, Django, HTML, CSS, JavaScript, Bootstrap, Markdown 
-    [View Live Website]((https://somersetshrimpshack.uk/))
+  *Technologies*: Python, Django, HTML, CSS, JavaScript, Bootstrap, Markdown
 
 - **[CTF Education Game](https://github.com/JWCurtis94/CTF-Education-Game)**  
   An interactive web-based game to teach cybersecurity concepts through capture-the-flag challenges.  
@@ -73,8 +72,7 @@ Here are some of my standout projects that showcase my skills and passion for de
 
 - **[Personal Portfolio](https://github.com/JWCurtis94/personal-portfolio)**  
   My personal portfolio website, showcasing my projects and skills with a clean, modern design.  
-  *Technologies*: HTML, Tailwind CSS, JavaScript  
-  [View Live Website]((https://jwcurtis94.github.io/personal-portfolio/))
+  *Technologies*: HTML, Tailwind CSS, JavaScript
 
   **Plenty More Projects To Share Soon**
 
