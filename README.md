@@ -48,10 +48,7 @@ Project	Description
 🎯 InebriAID	A React Native AI-powered mobile app that helps users make better decisions while intoxicated. Built with Node.js, GPT-4, and real-time reasoning.
 🦐 Somerset Shrimp Shack	A Django e-commerce platform for a UK-based aquatic pet store. Features Stripe integration, admin CMS, mobile-first design.
 🔐 CTF-Education-Game	A Capture-the-Flag game teaching cybersecurity to kids through fun puzzles, safe hacking, and ethical logic.
-🎮 GTA-style Game (WIP)	A Unity prototype of a third-person open-world game with basic missions, driving, and AI pedestrians.
 
-📈 GitHub Stats
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=JWCurtis94&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JWCurtis94&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🧭 Career Journey
 mermaid
 Copy
