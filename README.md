@@ -13,7 +13,7 @@
   <a href="https://github.com/JWCurtis94">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://curtiscreativecode.co.uk">
+  <a href="https://curtiscreativecode.com">
     <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:jameswcurtis94@outlook.com">
@@ -27,7 +27,7 @@
 
 I'm James Curtis, a full-stack developer based in Bristol, UK, with a passion for crafting intuitive, scalable, and impactful digital solutions. After a successful career in estate agency and telecommunications, I transitioned into software development through Code Institute’s intensive bootcamp (2024). Now, I specialize in building robust back-end APIs with Django and creating responsive, user-friendly front-ends with modern web technologies.
 
-As the founder of [Curtis Creative Code](https://curtiscreativecode.co.uk), I deliver freelance projects and mentor aspiring developers, particularly those with learning differences. My approach combines technical expertise, creative problem-solving, and a commitment to continuous learning.
+As the founder of [Curtis Creative Code](https://curtiscreativecode.com), I deliver freelance projects and mentor aspiring developers, particularly those with learning differences. My approach combines technical expertise, creative problem-solving, and a commitment to continuous learning.
 
 ```javascript
 const james = {
